@@ -1,0 +1,10 @@
+lengua
+paladar
+ganglios
+labio
+uvula
+amigdala
+papilas
+dientes
+encias
+traquea

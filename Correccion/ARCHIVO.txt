@@ -1,0 +1,4 @@
+dentista,profesion
+cuadro,pintura
+toalla,aseo
+pierna,cuerpo
